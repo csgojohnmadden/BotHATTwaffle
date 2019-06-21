@@ -10,6 +10,7 @@ namespace BotHATTwaffle.Commands
     /// <summary>
     /// Contains commands which provide links to various Source development tools.
     /// TODO: Look into creating a generic class which can build these kinds of commands from JSON data.
+    /// CSGOJohnMadden helped
     /// </summary>
     public class ToolsModule : ModuleBase<SocketCommandContext>
     {
